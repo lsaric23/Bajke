@@ -1,4 +1,7 @@
-![alt text]([https://www.bajke.hr/wp-content/uploads/2020/04/braco-i-seka.jpg.pagespeed.ce.bLLVS-XpW9.jpg])
+
+
+![image](https://github.com/lsaric23/Bajke/assets/150365305/c81d8ea3-4a99-4866-ad33-206d050ad7d1)
+
 
 Braco uzeo svoju seku za ruku, pa joj rekao:
 
