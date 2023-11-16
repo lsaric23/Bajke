@@ -1,3 +1,7 @@
+[Povratak na početnu stranicu](README.md)
+
+# Mala sirena
+
 [![Mala sirena](https://lektire.skole.hr/sites/default/files/imagecache/250px/slikedjela/malasirena01.png "Mala sirena")](https://lektire.skole.hr/sites/default/files/slikedjela/malasirena01.png)Daleko tamo na morskoj pučini voda je modra poput najljepšeg različka, a čista i bistra kao najčišće staklo; ali je i duboka, dublja nego što bilo koje sidro može doseći. Trebalo bi zaista mnogo crkvenih tornjeva postaviti jedan na drugoga da bi s dna dosegli na površinu. Na dnu žive morski vilenjaci i sirene.
 
 Nemojte misliti da tamo nema ničega osim pustog bijelog pijeska: ne, jer dolje raste najčudnije drveće i bilje, čije su grane i listovi toliko gipki da se uz najmanje pokrete vode savijaju kao da su živi. Male i velike ribe kreću se kroz granje, baš kao što kod nas ptice lete zrakom.
