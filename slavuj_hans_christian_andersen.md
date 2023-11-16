@@ -1,3 +1,6 @@
+[Povratak na početnu stranicu](README.md)
+
+# Slavuj
 Svima je poznato da je u Kini car Kinez, a i svi oko njega su također Kinezi. Ova je priča stara mnogo godina, ali baš zato je i treba poslušati, da se ne zaboravi.
 
 [![Ispod šumskog granja živio je jedan slavuj.](https://lektire.skole.hr/sites/default/files/imagecache/500px/slikedjela/slavuj03.png "Ispod šumskog granja živio je jedan slavuj.")](https://lektire.skole.hr/sites/default/files/slikedjela/slavuj03.png)
