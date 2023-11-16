@@ -1,3 +1,5 @@
+![alt text]([http://url/to/img.png](https://www.bajke.hr/wp-content/uploads/2020/04/braco-i-seka.jpg.pagespeed.ce.bLLVS-XpW9.jpg))
+
 Braco uzeo svoju seku za ruku, pa joj rekao:
 
 – Otkada je umrla majka, nema nam više sreće; maćeha nas bije, i kad dođemo k njoj, odgurne nas nogom. Hrana nam ono malo tvrdih korica kruha, što joj ostane; i psiću ispod stola bolje je, njemu katkad baci pokoji bolji zalogaj. Bože, kad bi to znala naša majka! Hajdemo zajedno u svijet.
