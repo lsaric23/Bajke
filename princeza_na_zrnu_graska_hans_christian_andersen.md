@@ -1,3 +1,7 @@
+[Povratak na početnu stranicu](README.md)
+
+# Princeza na zrnu graška
+
 Bio jednom jedan princ koji se žarko želio oženiti princezom, ali jedino pravom pravcatom princezom. Zato ode u svijet putujući i tražeći svoju princezu, ali svaki put bi mu nešto zasmetalo. Bilo je doduše dovoljno princeza u velikom svijetu, ali kod svake je nešto nedostajalo. Na kraju se princ vrati kući tužan, jer je zaista toliko želio pravu princezu.
 
 [![Bilo je doduše dovoljno princeza u velikom svijetu...](https://lektire.skole.hr/sites/default/files/imagecache/400px/slikedjela/princeza02.jpg "Bilo je doduše dovoljno princeza u velikom svijetu...")](https://lektire.skole.hr/sites/default/files/slikedjela/princeza02.jpg)
