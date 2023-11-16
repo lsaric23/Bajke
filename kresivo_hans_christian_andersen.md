@@ -1,3 +1,6 @@
+[Povratak na početnu stranicu](README.md)
+
+# Kresivo
 Vojnik maršira prašnjavom cestom na povratku kući. „Jedan-dva, jedan-dva…”
 
 Naprtnjača na leđima, a za pasom sablja, koju nosi sa sobom vraćajući se iz rata. Na svom dugom putu susretne iznenada jednu staru ružnu vješticu; donja joj je usna visjela sve do grudiju.
