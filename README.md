@@ -12,5 +12,5 @@ Ovaj će repozitorij sadržavati bajke braće Grimm
 [Poveznica na bajku Siromašni mlinarski momčić i maca](<Siromašni mlinarski momčić i maca – e-Lektire.md>)\
 [Poveznica na bajku Snjeguljica](<Snjeguljica – e-Lektire.md>)\
 [Poveznica na bajku Sretni Ivo](<Sretni Ivo – e-Lektire.md>)\
-[Poveznica na bajku Trnoružica](<Trnoružica – e-Lektire.md>)\
+[Poveznica na bajku Trnoružica](<Trnoružica – e-Lektire.md>)
 
