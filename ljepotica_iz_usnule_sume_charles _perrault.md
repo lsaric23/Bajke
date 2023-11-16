@@ -1,3 +1,7 @@
+[Povratak na početnu stranicu](README.md)
+
+# Ljepotica iz usnule šume
+
 Živjeli jednom jedan kralj i kraljica koji bijahu vrlo nesretni jer nisu imali djece, toliko nesretni da se to ne može niti izreći. Išli su u sve moguće toplice; pokušavali sebi pomoći na sve načine, zavjetima, hodočašćima, sitnim pobožnostima, ali ništa nije koristilo. Napokon ipak kraljica ostane trudna i rodi djevojčicu. Priredili su lijepo krštenje; maloj kraljevni pozvaše za kume sve vile koje su uspjeli naći u zemlji (a našlo ih se sedam); željeli su da joj svaka nešto daruje, prema vilinskom običaju onoga vremena, pa da kraljevna tako stekne sva zamisliva savršenstva.
 
 Nakon obreda krštenja cijelo se društvo vratilo u kraljevu palaču, gdje su za vile priredili svečanu gozbu. Stol bijaše veličanstveno postavljen za svaku od njih: pred svakom je stajala kutijica od suhog zlata u kojoj su bile zlatna žlica, vilica i nož, ukrašeni dijamantima i rubinima. No, sjedajući na svoja mjesta, vidješe kako stiže jedna stara vila, koju nitko nije pozvao, jer više od pedeset godina ne bijaše izašla iz neke kule, pa su svi mislili da je mrtva ili začarana.
