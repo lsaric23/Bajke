@@ -1,3 +1,7 @@
+[Povratak na početnu stranicu](README.md)
+
+# Palčica
+
 Bila jednom jedna žena koja je jako željela malo, maleno dijete, ali nije znala kako ga dobiti, pa ode kod stare vještice i reče: „Ja tako žarko želim dijete, možeš li mi reći gdje ga mogu dobiti?“
 
 „To ćemo mi već riješiti!“ reče vještica. „Evo ti ovo zrno ječma: to nije onakvo zrno kakvo raste u poljima seljaka ili kakvo dobivaju kokoši. Posadi ga u lonac za cvijeće i zalij, pa ćeš vidjeti!“
