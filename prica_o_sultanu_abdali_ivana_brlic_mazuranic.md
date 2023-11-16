@@ -1,3 +1,7 @@
+[Povratak na početnu stranicu](README.md)
+
+# Priča o sultanu Abdali
+
 I.
 
 Negdje na Indu bijaše nekoć mala država, puna blaga i bogatstva, plodna žitkom i hranom. Ali je blago i bogatstvo, i žito i hrana bilo sve u staroga sultana Hajrudima. Star je bio i mudar sultan Hajrudim – od mudra koljena. Držao je blago i žito u svojoj ruci i dijelio podanicima svakome po potrebi, a nikome do suviška, i tako nije bilo ni raskoši ni bijede u onoj zemlji. U dvoru sultanovu bila tišina, i malo se o njemu znalo, i malo ga tko vidio, jer je on najviše bivao u starom perivoju i mislio o dobru svoje države. I o toj se državi malo znalo po svijetu, a podanici se tužili da i ne znadu e sultana imadu, samo što im susteže, što je njihovo.
