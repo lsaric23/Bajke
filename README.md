@@ -1,7 +1,7 @@
 # Bajke
 Ovaj će repozitorij sadržavati bajke braće Grimm
 
-[Poveznica na bajku Braco i seka](<Braco i seka – e-Lektire.md>)
+[Poveznica na bajku Braco i seka](<Braco i seka – e-Lektire.md>)\
 [Poveznica na bajku Bremenski gradski svirači](<Bremenski gradski svirači – e-Lektire.md>)
 [Poveznica na bajku Doktor Sveznalica](<Doktor Sveznalica – e-Lektire.md>)
 [Poveznica na bajku Kralj Bradonja](<Kralj Bradonja – e-Lektire.md>)
