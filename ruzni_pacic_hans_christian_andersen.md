@@ -1,3 +1,7 @@
+[Povratak na početnu stranicu](README.md)
+
+# Ružni pačić
+
 Prekrasna je priroda na selu ljeti! Pšenica se žuti, zob se zeleni, sijeno je splašteno u stogove, a roda šeće na svojim dugim, crvenim nogama i priča egipatski, jezik kojega je naučila od majke. Oko livada i njiva su velike šume, a u šumama duboka jezera – zaista je prekrasno na selu!
 
 Stari dvorac obasjan je suncem i opasan vodenim kanalima, tamo raste gusti čičak, toliko visok, viši od male djece.
