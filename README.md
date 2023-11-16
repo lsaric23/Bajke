@@ -1,5 +1,5 @@
 # Bajke
-Ovaj će repozitorij sadržavati bajke braće Grimm
+Ovaj će repozitorij sadržavati bajke različitih autora.
 
 [Poveznica na bajku Braco i seka](<Braco i seka – e-Lektire.md>)\
 [Poveznica na bajku Bremenski gradski svirači](<Bremenski gradski svirači – e-Lektire.md>)\
