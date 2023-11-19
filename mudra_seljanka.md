@@ -65,3 +65,5 @@ Napokon dođe njegova žena pa će mu reći:
 – Dragi kralju i gospodaru, zapovjedio si da iz dvora ponesem sa sobom što mi je najmilije i najdraže; no kako mi ništa nije milije i draže od tebe, povela sam tebe.
 
 – Draga ženo, ti treba da budeš moja, a ja tvoj – nadoveže kralj suznih očiju, i odvede je opet u kraljevske dvore, te se ponovo vjenčaju. Bit će da su živi i dandanas.
+
+[Povratak](<README.md>)
