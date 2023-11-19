@@ -49,3 +49,5 @@ A kad sedmi ispi do dna, dokotrlja mu se prstenčić. Gavran pogleda i prepozna 
 – Bože daj – vikne – da je naša sestrica ovdje; onda smo izbavljeni.
 
 Kada djevojka prisluškujući za vratima oču tu želju, iziđe pred braću, i u taj čas poprime gavrani opet svoje ljudsko obličje. Svi se milovahu i cjelivahu, a onda veselo odoše doma.
+
+[Povratak](<README.md>)
