@@ -172,3 +172,5 @@ Kralj se ne mogaše uzdržati, priđe k njoj i reče:
 – Ti ne možeš biti nitko drugi već moja draga žena.
 
 – Da, ja sam tvoja draga žena – potvrdi ona. I toga časa oživje i bi zdrava, rumena i radosna. Zatim ispriča kralju o zločinu, što ga počiniše vještica i njezina kći. Kralj naloži da se obje izvedu na sud, i budu osuđene. Kćer odvedoše u šumu, te je razderaše divlje zvijeri, a vješticu baciše u vatru te je izgorjela. I kad od nje ne osta ništa drugo nego pepeo, lane opet poprimi ljudsko obličje. Seka i braco življahu otada zajedno i sretno sve do svoje smrti.
+
+[Povratak](<README.md>)
