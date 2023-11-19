@@ -1,16 +1,16 @@
 # Bajke
 Ovaj će repozitorij sadržavati bajke braće Grimm
 
-[Poveznica na bajku Braco i seka](<Braco i seka – e-Lektire.md>)\
-[Poveznica na bajku Bremenski gradski svirači](<Bremenski gradski svirači – e-Lektire.md>)\
-[Poveznica na bajku Doktor Sveznalica](<Doktor Sveznalica – e-Lektire.md>)\
-[Poveznica na bajku Kralj Bradonja](<Kralj Bradonja – e-Lektire.md>)\
-[Poveznica na bajku Mudra seljanka](<Mudra seljanka – e-Lektire.md>)\
-[Poveznica na bajku Mudri ljudi](<Mudri ljudi – e-Lektire.md>)\
-[Poveznica na bajku Sedam gavrana](<Sedam gavrana – e-Lektire.md>)\
-[Poveznica na bajku Siromah i bogataš](<Siromah i bogataš – e-Lektire.md>)\
-[Poveznica na bajku Siromašni mlinarski momčić i maca](<Siromašni mlinarski momčić i maca – e-Lektire.md>)\
-[Poveznica na bajku Snjeguljica](<Snjeguljica – e-Lektire.md>)\
-[Poveznica na bajku Sretni Ivo](<Sretni Ivo – e-Lektire.md>)\
-[Poveznica na bajku Trnoružica](<Trnoružica – e-Lektire.md>)
+[Braco i seka](<braco_i_seka.md>)\
+[Bremenski gradski svirači](<bremenski_gradski_sviraci.md>)\
+[Doktor Sveznalica](<doktor_sveznalica.md>)\
+[Kralj Bradonja](<kralj_bradonja.md>)\
+[Mudra seljanka](<mudra_seljanka.md>)\
+[Mudri ljudi](<mudri_ljudi.md>)\
+[Sedam gavrana](<sedam_gavrana.md>)\
+[Siromah i bogataš](<siromah_i_bogatas.md>)\
+[Siromašni mlinarski momčić i maca](<siromasni_mlinarski_momcic_i_maca.md>)\
+[Snjeguljica](<snjeguljica.md>)\
+[Sretni Ivo](<sretni_ivo.md>)\
+[Trnoružica](<trnoruzica.md>)
 
