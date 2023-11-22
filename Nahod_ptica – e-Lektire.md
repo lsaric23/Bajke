@@ -1,3 +1,5 @@
+[Povratak](<README.md>)
+
 Bio jednom neki šumar, pa išao u šumu u lov; kad je stigao u šumu, očuje cviljenje, kao da plače malo dijete. Pođe on prema mjestu odakle je taj cvil dopirao, pa napokon dođe do nekoga visokog stabla, a ono navrh njega malo dijete.
 
 Pod tim stablom naime bijaše zaspala majka s djetetom; a ptica grabilica, spazivši na majčinu krilu dijete, doletjela, dohvatila ga kljunom i metnula na njegov vršak.
