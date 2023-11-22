@@ -1,3 +1,5 @@
+[Povratak](<README.md>)
+
 Bila jednom stara koza; imala sedmoro jaradi, a voljela ih kao što majka voli svoju djecu. Jednoga se dana spremala u šumu po nešto krme, te ih sazva sve sedmoro i reče:
 
 – Draga djeco, ja ću u šumu; čuvajte se vuka; dođe li, sve će vas izjesti. Taj se zlikovac često pretvara, no lako ćete ga prepoznati po njegovu oporu glasu i crnim šapama.
