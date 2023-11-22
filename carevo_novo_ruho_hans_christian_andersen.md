@@ -1,3 +1,7 @@
+[Povratak na početnu stranicu](README.md)
+
+# Carevo novo ruho
+
 Jednom davno živio je jedan car koji je toliko volio lijepu, novu odjeću, da je sav svoj novac trošio da se lijepo odjene. Nije ga bilo briga za njegove vojnike, kazalište ili izlet u šumu, jedino mu je bilo stalo da se pokaže u novoj odjeći. Odjeću je mijenjao svakog sata. Za vladara se obično kaže da je u vijećnici, ali o ovom se uvijek moglo kazati: „Car je u svojoj garderobi!“
 
 U velikom carevom gradu bilo je živo i zabavno, svakog dana je dolazilo mnogo stranaca u posjetu, ali jednog dana dođu i dvije varalice. Oni se predstaviše kao tkalci i rekoše caru da je tkanina koju oni proizvode najljepša koja se da zamisliti. Osim što su boje i uzorci tkanine neobično lijepi, odjeća od nje sašivena imala je čudnu osobinu da je nevidljiva za sve ljude koji su nesposobni za svoj posao ili neoprostivo glupi.

@@ -1,3 +1,7 @@
+[Povratak na početnu stranicu](README.md)
+
+# Modrobradi
+
 Bijaše jednom jedan čovjek koji je imao krasne kuće u gradu i na ladanju, posuđe od srebra i zlata, pokućstvo ukrašeno vezom i pozlaćene kočije. No, na nesreću, taj čovjek je imao i modru bradu; zbog toga bijaše toliko ružan i toliko strašan da nije bilo ni žene ni djevojke koja ne bi pobjegla pred njim.
 
 Jedna od njegovih susjeda, otmjena gospođa, imala je dvije savršeno lijepe kćeri. On zaprosi jednu od njih, a majci ostavi na volju koju će mu dati. Nijedna ni druga nisu ga htjele, prepuštale su ga jedna drugoj, jer nisu mogle prihvatiti muškarca modre brade. Odbijalo ih je i to što se on već bio oženio s nekoliko žena, a nitko nije znao što se s njima dogodilo.
