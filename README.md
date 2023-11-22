@@ -35,7 +35,7 @@ Ovaj repozitorij sadržava bajke različitih autora.
 [Trgovac Nav](trgovac_nav_ivana_brlic_mazuranic.md)\
 [Priča o Zorku Bistrozorkom i o sreći](prica_o_zorku_bistrozorkom_i_o_sreci_ivana_brlic_mazuranic.md)\
 [Priča o sultanu Abdali](prica_o_sultanu_abdali_ivana_brlic_mazuranic.md)\
-[Djevojčica i neman](djevojcica_i_neman_ivana_brlic_mazuranic.md)
+[Djevojčica i neman](djevojcica_i _neman_ivana_brlic_mazuranic.md)
 
 ## Hans Christian Andersen
 
