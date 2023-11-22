@@ -68,6 +68,5 @@ Razbojnik nadao u bijeg što su ga noge nosile; stiže svome harambaši te mu ja
 
 Otada se razbojnici više ne usudiše u kuću, a bremenskim se sviračima u njoj tako svidje, te više ne htjedoše iz nje.
 
-Priču **“Bremenski gradski svirači”** možete poslušati i u **[audio-zapisu](https://lektire.skole.hr/node/12321 "Bajke")**, u interpretaciji **Zvonimira Bulaje**.
 
 [Povratak](<README.md>)
