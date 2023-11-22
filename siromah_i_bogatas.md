@@ -83,3 +83,5 @@ Tek što je izgovorio posljednju riječ, kadli nesta sedla s njegovih leđa: ča
 Htio ne htio, muž morade i treću želju izreći, da mu se žena oslobodi sedla i da siđe; i želja se naskoro ispuni.
 
 Od svega bogataš nije ništa drugo imao doli srdžbe, truda, pogrda i propaloga konja; siromasi su živjeli zadovoljno, tiho i pobožno sve do svoga sretnoga svršetka.
+
+[Povratak](<README.md>)

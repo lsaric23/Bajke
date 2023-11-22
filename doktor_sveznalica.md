@@ -63,3 +63,5 @@ Sad je onaj u peći mislio, da Doktor nišani na njega, pa skoči iz peći upla�
 – Ovaj čovjek zna sve!
 
 Nato Doktor Sveznalica pokaže gospodinu gdje se nalazi novac, a nije odao kradljivaca. I od njega i od njih dobije mnogo novaca kao nagradu i postane znamenit čovjek.
+
+[Povratak](<README.md>)

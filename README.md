@@ -2,18 +2,18 @@
 Ovaj repozitorij sadržava bajke različitih autora.
 
 ## Bajke braće Grimm
-[Braco i seka](<Braco i seka – e-Lektire.md>)\
-[Bremenski gradski svirači](<Bremenski gradski svirači – e-Lektire.md>)\
-[Doktor Sveznalica](<Doktor Sveznalica – e-Lektire.md>)\
-[Kralj Bradonja](<Kralj Bradonja – e-Lektire.md>)\
-[Mudra seljanka](<Mudra seljanka – e-Lektire.md>)\
-[Mudri ljudi](<Mudri ljudi – e-Lektire.md>)\
-[Sedam gavrana](<Sedam gavrana – e-Lektire.md>)\
-[Siromah i bogataš](<Siromah i bogataš – e-Lektire.md>)\
-[Siromašni mlinarski momčić i maca](<Siromašni mlinarski momčić i maca – e-Lektire.md>)\
-[Snjeguljica](<Snjeguljica – e-Lektire.md>)\
-[Sretni Ivo](<Sretni Ivo – e-Lektire.md>)\
-[Trnoružica](<Trnoružica – e-Lektire.md>)\
+[Braco i seka](<braco_i_seka.md>)\
+[Bremenski gradski svirači](<bremenski_gradski_sviraci.md>)\
+[Doktor Sveznalica](<doktor_sveznalica.md>)\
+[Kralj Bradonja](<kralj_bradonja.md>)\
+[Mudra seljanka](<mudra_seljanka.md>)\
+[Mudri ljudi](<mudri_ljudi.md>)\
+[Sedam gavrana](<sedam_gavrana.md>)\
+[Siromah i bogataš](<siromah_i_bogatas.md>)\
+[Siromašni mlinarski momčić i maca](<siromasni_mlinarski_momcic_i_maca.md>)\
+[Snjeguljica](<snjeguljica.md>)\
+[Sretni Ivo](<sretni_ivo.md>)\
+[Trnoružica](<trnoruzica.md>)
 [Crvenkapica](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Crvenkapica%20%E2%80%93%20e-Lektire.md>)\
 [Mirko i milka](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Mirko%20i%20Milka%20%E2%80%93%20e-Lektire.md>)\
 [Pepeljuga](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Pepeljuga%20%E2%80%93%20e-Lektire.md>)\
@@ -52,4 +52,5 @@ Ovaj repozitorij sadržava bajke različitih autora.
 
 [Modrobradi](modrobradi_charles_perrault.md)\
 [Ljepotica iz usnule šume](ljepotica_iz_usnule_sume_charles_perrault.md)
+
 

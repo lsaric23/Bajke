@@ -37,3 +37,5 @@ Zatim pođe dalje i vidje gdje u dvorani svi dvorjanici spavaju, a gore pred pri
 Probudili se i konji u staji te se stali otresati; i lovački psi skakali i mahali repovima; golubovi na krovu izvukli glavice ispod krila, stali se ogledati i odletjeli u polje; oživjele i muhe na zidu; razbudila se vatra u kuhinji, stala plamtjeti i kuhati jelo; pečenka opet zacvrčila, kuhar udario momka te ovaj vrisnuo, a sluškinja operušala kokoš. Napokon proslavili svadbu, raskošnu i sjajnu, te kraljević poživio s Ružicom zadovoljno sve do smrti.
 
 Bajku **“Trnoružica”** možete poslušati i u **[audio-zapisu](https://lektire.skole.hr/node/12321 "Bajke")**, u interpretaciji **Nikše Marinovića**.
+
+[Povratak](<README.md>)

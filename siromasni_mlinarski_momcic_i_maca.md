@@ -73,3 +73,5 @@ Kraljevna zatraži, da joj pokažu konje, što su ih sa sobom doveli mlinarski m
 Prvo su se vozili do male kućice, što ju je Ivo sagradio srebrnim oruđem; ali to sada bjehu veliki dvori, a u njima sve od srebra i zlata. Kraljevska se kći vjenča s Ivom, i tako je siromašni mlinarski momčić postao bogat, vrlo bogat, te je imao svega u obilju za sav život.
 
 Stoga neka nitko ne kaže, da ne bi mogao postati čestit, zato što je budalast.
+
+[Povratak](<README.md>)

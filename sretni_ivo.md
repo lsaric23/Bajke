@@ -108,3 +108,5 @@ Kako od ranog jutra bijaše na nogama, osjeti umor. Bijaše i gladan, jer je od 
 Kad Ivo vidje kako mu kamenje tone u dubinu, skoči veselo, klekne i suznih očiju zahvali Bogu, što mu je i tu milost iskazao i što ga je na tako zgodan način lišio tereta, koji mu je još jedini smetao, a da zbog toga ne mora sebe nimalo prekoravati.
 
 »Tako sretna čovjeka kao što sam ja, nema više pod suncem!« klikne Ivo i lišen svakoga tereta, pohiti radosna srca dalje, da stigne doma, svojoj majci.
+
+[Povratak](<README.md>)
