@@ -1,3 +1,5 @@
+![image](https://github.com/lsaric23/Bajke/assets/150365305/be7ce6b3-7fa2-4253-8690-febaeff9d03b)
+
 Imao čovjek magarca, koji je već mnogo godina strpljivo nosio vreće u mlinicu; ali magarcu snaga jenjavala, te on postajao sve nesposobniji za rad. Njegovu gospodaru pade na um da ga prestane hraniti, a magarac opazi da loš vjetar puše, te pobjegne i udari put Bremena; tamo bi, mišljaše, mogao postati gradski svirač.
 
 Kad je neko vrijeme išao, naiđe na lovačkog psa gdje na putu leži i dašće, kao da se umorio od trčanja.
@@ -66,4 +68,5 @@ Razbojnik nadao u bijeg što su ga noge nosile; stiže svome harambaši te mu ja
 
 Otada se razbojnici više ne usudiše u kuću, a bremenskim se sviračima u njoj tako svidje, te više ne htjedoše iz nje.
 
-Priču **“Bremenski gradski svirači”** možete poslušati i u **[audio-zapisu](https://lektire.skole.hr/node/12321 "Bajke")**, u interpretaciji **Zvonimira Bulaje**.
+
+[Povratak](<README.md>)

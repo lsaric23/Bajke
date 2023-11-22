@@ -1,30 +1,58 @@
 # Bajke
-Ovaj će repozitorij sadržavati bajke braće Grimm
 
-[Poveznica na bajku Braco i seka](<Braco i seka – e-Lektire.md>)\
-[Poveznica na bajku Bremenski gradski svirači](<Bremenski gradski svirači – e-Lektire.md>)\
-[Poveznica na bajku Doktor Sveznalica](<Doktor Sveznalica – e-Lektire.md>)\
-[Poveznica na bajku Kralj Bradonja](<Kralj Bradonja – e-Lektire.md>)\
-[Poveznica na bajku Mudra seljanka](<Mudra seljanka – e-Lektire.md>)\
-[Poveznica na bajku Mudri ljudi](<Mudri ljudi – e-Lektire.md>)\
-[Poveznica na bajku Sedam gavrana](<Sedam gavrana – e-Lektire.md>)\
-[Poveznica na bajku Siromah i bogataš](<Siromah i bogataš – e-Lektire.md>)\
-[Poveznica na bajku Siromašni mlinarski momčić i maca](<Siromašni mlinarski momčić i maca – e-Lektire.md>)\
-[Poveznica na bajku Snjeguljica](<Snjeguljica – e-Lektire.md>)\
-[Poveznica na bajku Sretni Ivo](<Sretni Ivo – e-Lektire.md>)\
-[Poveznica na bajku Trnoružica](<Trnoružica – e-Lektire.md>)\
-[Poveznica na bajku Crvenkapica](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Crvenkapica%20%E2%80%93%20e-Lektire.md>)\
-[Poveznica na bajku Mirko i milka](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Mirko%20i%20Milka%20%E2%80%93%20e-Lektire.md>)\
-[Poveznica na bajku Pepeljuga](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Pepeljuga%20%E2%80%93%20e-Lektire.md>)\
-[Poveznica na bajku Pas i vrabac](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Pas%20i%20vrabac%20%E2%80%93%20e-Lektire.md>)
-[Poveznica na bajku Šestorica obilaze svijetom](<https://github.com/lsaric23/Bajke/blob/laura-bajke/%C5%A0estorica%20obilaze%20svijetom%20%E2%80%93%20e-Lektire.md>)\
-[Poveznica na bajku Mudra jelka](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Mudra%20Jelka%20%E2%80%93%20e-Lektire.md>)\
-[Poveznica na bajku Dvanaestorica braće](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Dvanaestorica%20bra%C4%87e%20%E2%80%93%20e-Lektire.md>)\
-[Poveznica na bajku Tri čovječuljka u šumi](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Tri%20%C4%8Dovje%C4%8Duljka%20u%20%C5%A1umi%20%E2%80%93%20e-Lektire.md>)\
-[Poveznica na bajku Nahod ptica](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Nahod-ptica%20%E2%80%93%20e-Lektire.md>)\
-[Poveznica na bajku Vjerni Ivan](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Vjerni%20Ivan%20%E2%80%93%20e-Lektire.md>)\
-[Poveznica na bajku Vuk i sedmero jaradi](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Vuk%20i%20sedmoro%20jaradi%20%E2%80%93%20e-Lektire.md>)\
-[Poveznica na bajku Palčić](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Pal%C4%8Di%C4%87%20%E2%80%93%20e-Lektire.md>)\
-[Poveznica na bajku Priča o čovjeku koji je htio da nauči strahovati](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Pri%C4%8Da%20o%20%C4%8Dovjeku%20koji%20je%20htio%20da%20nau%C4%8Di%20strahovati%20%E2%80%93%20e-Lektire.md>)\
-[Poveznica na bajku Klatež](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Klate%C5%BE%20%E2%80%93%20e-Lektire.md>)\
-[Poveznica na bajku Ukleti kraljević i Čelik Henrik](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Ukleti%20Kraljevi%C4%87%20i%20%C4%8Celik-Henrik%20%E2%80%93%20e-Lektire.md>)
+Ovaj repozitorij sadržava bajke različitih autora.
+
+## Bajke braće Grimm
+[Braco i seka](<braco_i_seka.md>)\
+[Bremenski gradski svirači](<bremenski_gradski_sviraci.md>)\
+[Doktor Sveznalica](<doktor_sveznalica.md>)\
+[Kralj Bradonja](<kralj_bradonja.md>)\
+[Mudra seljanka](<mudra_seljanka.md>)\
+[Mudri ljudi](<mudri_ljudi.md>)\
+[Sedam gavrana](<sedam_gavrana.md>)\
+[Siromah i bogataš](<siromah_i_bogatas.md>)\
+[Siromašni mlinarski momčić i maca](<siromasni_mlinarski_momcic_i_maca.md>)\
+[Snjeguljica](<snjeguljica.md>)\
+[Sretni Ivo](<sretni_ivo.md>)\
+[Trnoružica](<trnoruzica.md>)\
+[Crvenkapica](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Crvenkapica%20%E2%80%93%20e-Lektire.md>)\
+[Mirko i milka](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Mirko%20i%20Milka%20%E2%80%93%20e-Lektire.md>)\
+[Pepeljuga](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Pepeljuga%20%E2%80%93%20e-Lektire.md>)\
+[Pas i vrabac](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Pas%20i%20vrabac%20%E2%80%93%20e-Lektire.md>)\
+[Šestorica obilaze svijetom](<https://github.com/lsaric23/Bajke/blob/laura-bajke/%C5%A0estorica%20obilaze%20svijetom%20%E2%80%93%20e-Lektire.md>)\
+[Mudra jelka](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Mudra%20Jelka%20%E2%80%93%20e-Lektire.md>)\
+[Dvanaestorica braće](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Dvanaestorica%20bra%C4%87e%20%E2%80%93%20e-Lektire.md>)\
+[Tri čovječuljka u šumi](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Tri%20%C4%8Dovje%C4%8Duljka%20u%20%C5%A1umi%20%E2%80%93%20e-Lektire.md>)\
+[Nahod ptica](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Nahod-ptica%20%E2%80%93%20e-Lektire.md>)\
+[Vjerni Ivan](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Vjerni%20Ivan%20%E2%80%93%20e-Lektire.md>)\
+[Vuk i sedmero jaradi](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Vuk%20i%20sedmoro%20jaradi%20%E2%80%93%20e-Lektire.md>)\
+[Palčić](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Pal%C4%8Di%C4%87%20%E2%80%93%20e-Lektire.md>)\
+[Priča o čovjeku koji je htio da nauči strahovati](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Pri%C4%8Da%20o%20%C4%8Dovjeku%20koji%20je%20htio%20da%20nau%C4%8Di%20strahovati%20%E2%80%93%20e-Lektire.md>)\
+[Klatež](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Klate%C5%BE%20%E2%80%93%20e-Lektire.md>)\
+[Ukleti kraljević i Čelik Henrik](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Ukleti%20Kraljevi%C4%87%20i%20%C4%8Celik-Henrik%20%E2%80%93%20e-Lektire.md>)
+
+## Bajke Ivane Brlić Mažuranić
+[Zašto se rodila bijedna Lera i njezino siroče](zasto_se_rodila_bijedna_lera_i_njezino_siroce_ivana_brlic_mazuranic.md)\
+[Trgovac Nav](trgovac_nav_ivana_brlic_mazuranic.md)\
+[Priča o Zorku Bistrozorkom i o sreći](prica_o_zorku_bistrozorkom_i_o_sreci_ivana_brlic_mazuranic.md)\
+[Priča o sultanu Abdali](prica_o_sultanu_abdali_ivana_brlic_mazuranic.md)\
+[Djevojčica i neman](djevojcica_i_neman_brlic_mazuranic.md)
+
+## Hans Christian Andersen
+
+[Slavuj](slavuj_hans_christian_andersen.md)\
+[Ružni pačić](ruzni_pacic_hans_christian_andersen.md)\
+[Princeza na zrnu graška](princeza_na_zrnu_graska_hans_christian_andersen.md)\
+[Palčica](palcica_hans_christian_andersen.md)\
+[Mala sirena](mala_sirena_hans_christian_andersen.md)\
+[Kresivo](kresivo_hans_christian_andersen.md)\
+[Djevojčica sa šibicama](djevojcica_sa_sibicama_hans_christian_andersen.md)\
+[Carevo novo ruho](carevo_novo_ruho_hans_christian_andersen.md)
+
+## Charles Perrault
+
+[Modrobradi](modrobradi_charles_perrault.md)\
+[Ljepotica iz usnule šume](ljepotica_iz_usnule_sume_charles_perrault.md)
+
+
+

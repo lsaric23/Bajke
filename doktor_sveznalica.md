@@ -1,3 +1,5 @@
+![image](https://github.com/lsaric23/Bajke/assets/150365305/4067afd8-a633-4227-89d3-26b9b041562a)
+
 Bio siromah seljak po imenu Rak. Taj jednoga dana dovezao u grad tovar drva te ih prodao nekom doktoru.
 
 Doktor je upravo ručao, te seljak, kad je primao novac, vidje kako doktor lijepo jede i pije; srce mu zadrhtalo od žive želje da i on bude doktor. Pošto je tako neko vrijeme stajao, napokon zapita ne bi li i on mogao postati doktor.
@@ -61,3 +63,5 @@ Sad je onaj u peći mislio, da Doktor nišani na njega, pa skoči iz peći upla�
 – Ovaj čovjek zna sve!
 
 Nato Doktor Sveznalica pokaže gospodinu gdje se nalazi novac, a nije odao kradljivaca. I od njega i od njih dobije mnogo novaca kao nagradu i postane znamenit čovjek.
+
+[Povratak](<README.md>)

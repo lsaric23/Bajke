@@ -95,3 +95,5 @@ Kad je seljak stigao kući, smjesti konja u staju pokraj krave, ode k ženi i re
 »Dobra je to trgovina: za dvije rđave krave – gizdava konja i k tomu punu kesu novaca. Kad bi glupost uvijek ovako donosila, mnogo bih je cijenio.«
 
 Tako mišljaše seljak, ali tebi su glupaci zacijelo miliji.
+
+[Povratak](<README.md>)
