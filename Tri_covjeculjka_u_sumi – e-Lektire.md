@@ -1,3 +1,5 @@
+[Povratak](<README.md>)
+
 Bio neki čovjek pa mu umrla žena, a bila opet neka žena pa joj umro muž: čovjek imao kćer, i žena imala kćer. Obje djevojke bile dobre druge. Išle zajedno šetati, pa se poslije šetnje svratile udovici u kuću.
 
 – Slušaj – reći će udovica udovčevoj kćeri. – Kaži svome ocu, da bih ja pošla za njega; tebe bih svakog dana mlijekom prala i vinom pojila, a svoju bi kćerku vodom prala i vodom pojila.

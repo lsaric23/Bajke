@@ -1,3 +1,5 @@
+[Povratak](<README.md>)
+
 Bio jednom otac, što je imao dva sina: stariji mu bio pametan i mudar, te se u svemu snalazio, a mlađi glup, te ništa nije shvaćao ni učio. Videći mlađega, ljudi govorahu: »S ovim će otac imati muke!«
 
 Kad je trebalo što učiniti, morao je to svaki put stariji. No kad bi ga otac pokasno ili čak noću nekamo poslao, a put pritom išao preko groblja ili kojim drugim jezivim mjestom, rekao bi: »Ah ne, oče, ne mogu tamo, jeza me hvata!« Bojao se. »Uh, jeza me hvata!« govorili bi i slušaoci, kad bi se navečer, kraj vatre, pripovijedalo o stvarima, od kojih se čovjeku koža ježi.
