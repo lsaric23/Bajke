@@ -13,7 +13,7 @@ Ovaj repozitorij sadržava bajke različitih autora.
 [Siromašni mlinarski momčić i maca](<siromasni_mlinarski_momcic_i_maca.md>)\
 [Snjeguljica](<snjeguljica.md>)\
 [Sretni Ivo](<sretni_ivo.md>)\
-[Trnoružica](<trnoruzica.md>)
+[Trnoružica](<trnoruzica.md>)\
 [Crvenkapica](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Crvenkapica%20%E2%80%93%20e-Lektire.md>)\
 [Mirko i milka](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Mirko%20i%20Milka%20%E2%80%93%20e-Lektire.md>)\
 [Pepeljuga](<https://github.com/lsaric23/Bajke/blob/laura-bajke/Pepeljuga%20%E2%80%93%20e-Lektire.md>)\
@@ -35,7 +35,7 @@ Ovaj repozitorij sadržava bajke različitih autora.
 [Trgovac Nav](trgovac_nav_ivana_brlic_mazuranic.md)\
 [Priča o Zorku Bistrozorkom i o sreći](prica_o_zorku_bistrozorkom_i_o_sreci_ivana_brlic_mazuranic.md)\
 [Priča o sultanu Abdali](prica_o_sultanu_abdali_ivana_brlic_mazuranic.md)\
-[Djevojčica i neman](djevojcica_i _neman_ivana_brlic_mazuranic.md)
+[Djevojčica i neman](djevojcica_i_neman_brlic_mazuranic.md)
 
 ## Hans Christian Andersen
 
