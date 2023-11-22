@@ -1,3 +1,5 @@
+[Povratak](<README.md>)
+
 Bio neki čovjek, koji je umio svašta; služio u ratu valjano i hrabro, no kad je rat svršio, otpustili ga davši mu tri filira popudbine.
 
 »Čekaj, nećemo baš tako. Nađem li pravih ljudi, dat će mi kralj blago čitave zemlje«, razljuti se ratnik i pođe u šumu, gdje nađe nekoga čovjeka, koji je iščupao šest stabala, kao da su žitne slamke.
