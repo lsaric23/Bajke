@@ -229,3 +229,5 @@ Ali Snjeguljica je ljepša nego vi._
 Nato ta zločesta žena opsuje nešto ružno, i spopane je takva tjeskoba, da ne znade šta će. Prvo ne htjede na svadbu; ali kako bijaše radoznala, ipak ode da vidi mladu kraljicu. Čim stupi u dvoranu, prepozna Snjeguljicu i od silnoga straha bude kao skamenjena. Ali već joj u dvoranu kliještima donesoše usijane željezne papuče, staviše ih pred nju i ona morade u njima plesati, sve dok mrtva ne pade na zemlju.
 
 Bajku **“Snjeguljica”** možete poslušati i u **[audio-zapisu](https://lektire.skole.hr/node/12321 "Bajke")**, u interpretaciji **Nikše Marinovića**.
+
+[Povratak](<README.md>)
