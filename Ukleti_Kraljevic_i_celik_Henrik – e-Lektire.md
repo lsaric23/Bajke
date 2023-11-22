@@ -1,3 +1,5 @@
+[Povratak](<README.md>)
+
 U staro doba, kad su se želje još ispunjale, živio neki kralj, koji je imao sve same lijepe kćeri, no najmlađa bila tako lijepa, te se i sunce, koje je toliko svijeta vidjelo, uvijek divilo, kad god bi joj obasjalo lice. Nedaleko kraljevskih dvora prostirala se velika tamna šuma, a u šumi pod starom lipom bio studenac; kad bi bilo vruće, kraljevna bi pošla u šumu, sjela na rub hlađana studenca, i tu bi od dosade uzimala zlatnu kuglu, bacala je uvis i opet hvatala. To joj, eto, bila najmilija igra.
 
 No jednom se dogodi, te joj zlatna kugla ne pade opet u ručicu, koju je pružila uvis, već lupi kraj nje o zemlju i otkotrlja se pravo u vodu. Kraljevna osta gledajući za njom, no kugle nestalo, a studenac dubok, ne vidiš mu dna. Stane plakati te plakati, sve glasnije i glasnije, nikako da se utješi. I dok tako jadikovaše, začuje neki glas:
