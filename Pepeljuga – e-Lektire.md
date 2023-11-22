@@ -1,3 +1,5 @@
+[Povratak](<README.md>)
+
 Oboljela žena nekoga bogatoga čovjeka, pa kad je osjetila da joj se približava smrt, pozvala svoju jedinicu kćer k postelji te joj rekla:
 
 – Drago dijete, budi čedna i dobra, pa će ti uvijek dobro biti; ja ću s neba gledati na tebe i bit ću uza te. – To rekavši, zaklopila mati oči i umrla.
