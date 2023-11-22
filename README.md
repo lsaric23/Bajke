@@ -3,7 +3,7 @@
 Ovaj repozitorij sadržava bajke različitih autora.
 
 ## Bajke braće Grimm
-[Braco i seka](<braco_i_seka.md>)\
+[Braco i seka](braco_i_seka.md)\
 [Bremenski gradski svirači](<bremenski_gradski_sviraci.md>)\
 [Doktor Sveznalica](<doktor_sveznalica.md>)\
 [Kralj Bradonja](<kralj_bradonja.md>)\
