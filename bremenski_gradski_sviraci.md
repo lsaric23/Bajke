@@ -1,6 +1,6 @@
-![image](https://github.com/lsaric23/Bajke/assets/150365305/be7ce6b3-7fa2-4253-8690-febaeff9d03b)
-
 Imao čovjek magarca, koji je već mnogo godina strpljivo nosio vreće u mlinicu; ali magarcu snaga jenjavala, te on postajao sve nesposobniji za rad. Njegovu gospodaru pade na um da ga prestane hraniti, a magarac opazi da loš vjetar puše, te pobjegne i udari put Bremena; tamo bi, mišljaše, mogao postati gradski svirač.
+
+![image](https://github.com/lsaric23/Bajke/assets/150365305/be7ce6b3-7fa2-4253-8690-febaeff9d03b)
 
 Kad je neko vrijeme išao, naiđe na lovačkog psa gdje na putu leži i dašće, kao da se umorio od trčanja.
 
